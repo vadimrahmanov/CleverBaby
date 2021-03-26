@@ -1,0 +1,48 @@
+@font-face {
+  font-family: "Rubik";
+  font-weight: 400;
+  font-style: normal;
+  src: url("../fonts/rubik.woff2") format("woff2"), url("../fonts/rubik.woff") format("woff");
+  font-display: swap; }
+
+@font-face {
+  font-family: "Rubik";
+  font-weight: 500;
+  font-style: normal;
+  src: url("../fonts/rubik-medium.woff2") format("woff2"), url("../fonts/rubik-medium.woff") format("woff");
+  font-display: swap; }
+
+@font-face {
+  font-family: "Montserrat";
+  font-weight: 400;
+  font-style: normal;
+  src: url("../fonts/montserrat.woff2") format("woff2"), url("../fonts/montserrat.woff") format("woff");
+  font-display: swap; }
+
+@font-face {
+  font-family: "Montserrat";
+  font-weight: 500;
+  font-style: normal;
+  src: url("../fonts/montserrat-medium.woff2") format("woff2"), url("../fonts/montserrat-medium.woff") format("woff");
+  font-display: swap; }
+
+html {
+  scroll-behavior: smooth; }
+
+body {
+  margin: 0; }
+
+a {
+  text-decoration: none; }
+
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  padding: 0;
+  overflow: hidden;
+  border: 0;
+  clip: rect(0 0 0 0); }
+
+/*# sourceMappingURL=styles.css.map */
