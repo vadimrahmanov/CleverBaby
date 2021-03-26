@@ -1,4 +1,4 @@
-# Project "ProjectName"
+# Project "CleverBaby" (Vadim Rakhmanov)
 ## A short guide
 ### To get started, you must have installed:
 * Node.js v.10.15.3
