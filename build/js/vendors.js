@@ -1,2 +1,1 @@
-'use strict';
-// File for vendors //
+"use strict";
